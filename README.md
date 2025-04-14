@@ -25,10 +25,10 @@ A simple keylogger built using Python and `pynput` to capture keystrokes on Linu
 
 ```bash
 git clone https://github.com/net-cipher/SCT_CS_4.git
-cd keylogger
-sudo apt update
-sudo apt install python3 python3-pip -y
-pip3 install pynput
-python3 keylogger.py
 ```
+```cd keylogger```
+```sudo apt update```
+```sudo apt install python3 python3-pip -y```
+```pip3 install pynput```
+```python3 keylogger.py```
 Please use this tool with legal authrozied only. Do not use it for illegal purpose, i dont claim for it! Thank You
